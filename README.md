@@ -247,7 +247,7 @@
 
 # 譯者註
 
-> * [譯者註]此翻譯整合了三個版本：
+> * 此翻譯整合了三個版本：
 > * 1.重新對原文進行翻譯。
 > * 2.原繁體內容[面試時的反問（繁體）](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)已久未更新，與原文已有不少差異，僅列參考資料。
 > * 3.[反向面试（簡體）](https://github.com/yifeikong/reverse-interview-zh/blob/master/README.md)版本貼近原文且有補充幾條不錯的提問資料，是主要參考資料。
