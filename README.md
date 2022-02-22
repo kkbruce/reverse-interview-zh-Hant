@@ -243,7 +243,7 @@
 在以下位置搜找更多問題的靈感：
 
 * [約耳談測試：改進程式碼的12個步驟](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 由Joel Spolsky撰寫。
-* [我在面式中提問的問題](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) 由Julia Evans撰寫。
+* [我在面試中提問的問題](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) 由Julia Evans撰寫。
 
 (繁中補充)
 
