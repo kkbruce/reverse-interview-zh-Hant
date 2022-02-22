@@ -248,12 +248,13 @@
 (繁中補充)
 
 * [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 一文也是經典。
+* [面試笑話](Interview-Joke.md) 由網友提供。好好提問與不好好提問的結果。
 
 # 譯者註
 
 > * 此翻譯整合了三個版本：
 > * 1.重新對原文進行翻譯。
-> * 2.原繁體內容[面試時的反問（繁體）](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)已久未更新，與原文已有不少差異，僅列參考資料。
+> * 2.原繁體內容「面試時的反問（繁體）」久未更新，與原文已有不少差異，僅列參考資料。（在本文上傳公開之後，另一繁體作者也緊急更新內容，而補上內容和我的版本有高度相似，反正英文人人都能翻，尤其是這種短短的句子，翻出來長得一模一樣也沒有什麼好大驚小怪的。只能說，我們兩者時間點太近，在此簡單聲明，此篇從頭到尾都是我自己翻譯，而且還好我公開的時間早了人家幾小時。）
 > * 3.[反向面试（簡體）](https://github.com/yifeikong/reverse-interview-zh/blob/master/README.md)版本貼近原文且有補充幾條不錯的提問資料，是主要參考資料。
 > * 標題「面試背後的面試」想法延伸自「[QBQ！問題背後的問題](https://www.books.com.tw/products/0010776691)」這本書。
 
