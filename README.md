@@ -245,13 +245,17 @@
 * [約耳談測試：改進程式碼的12個步驟](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 由Joel Spolsky撰寫。
 * [我在面式中提問的問題](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) 由Julia Evans撰寫。
 
+(繁中補充)
+
+* [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 一文也是經典。
+
 # 譯者註
 
 > * 此翻譯整合了三個版本：
 > * 1.重新對原文進行翻譯。
 > * 2.原繁體內容[面試時的反問（繁體）](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)已久未更新，與原文已有不少差異，僅列參考資料。
 > * 3.[反向面试（簡體）](https://github.com/yifeikong/reverse-interview-zh/blob/master/README.md)版本貼近原文且有補充幾條不錯的提問資料，是主要參考資料。
-> * 標題「面試背後的面試」想法延伸自「QBQ！問題背後的問題」這本書。
+> * 標題「面試背後的面試」想法延伸自「[QBQ！問題背後的問題](https://www.books.com.tw/products/0010776691)」這本書。
 
 # 授權
 
