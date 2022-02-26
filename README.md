@@ -142,8 +142,8 @@
 * 為什麼公司決定聘請外部人員而不是提拔內部員工？
 
 > * [8] 自由及開放原始碼軟體（Free and open source software，縮寫為FOSS，或Free/Libre and open source software，縮寫為F/L/OSS，FLOSS）
-> * [9] non-compete 
-> * [10] non-disclosure 
+> * [9] non-compete
+> * [10] non-disclosure
 > * [11] Clean Code；採用博碩文化對Clean Code一書的翻譯。
 > * [12] Hackathon，也稱駭客松。
 
@@ -191,7 +191,7 @@
 # 關於遠端工作
 
 * 遠端工作和辦公室工作的比例是多少？
-* 公司有提供硬體設備嗎？多能會更新一次？
+* 公司有提供硬體設備嗎？多久會更新一次？
 * 您如何看待使用自己的硬體設備[14]來工作？是否已經有相關政策？
 * 是否可以通過公司購買額外的配件/設備？公司有這方面的預算嗎？
 * 是否有共享辦公空間或補助上網的預算嗎？
