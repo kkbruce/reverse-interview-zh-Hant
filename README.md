@@ -250,7 +250,7 @@
 * [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 一文也是經典。
 * [面試笑話](Interview-Joke.md) 由網友提供。好好提問與不好好提問的結果。
 * [為了有一個適合自己的工作，你應該做哪些事？](https://useme.medium.com/%E7%82%BA%E4%BA%86%E6%9C%89%E4%B8%80%E5%80%8B%E9%81%A9%E5%90%88%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%87%89%E8%A9%B2%E5%81%9A%E5%93%AA%E4%BA%9B%E4%BA%8B-11554b00037b) 
-* [Coding interview 就是刷很多題目，然後面試時直接上場解題? 不是喔，這邊結構化了平時刷題練習、面試流程的技巧、注意事項與範例](https://yschen25.blogspot.com/2022/02/coding-interview.html)
+* [Coding interview就是刷很多題目，然後面試時直接上場解題? 不是喔，這邊結構化了平時刷題練習、面試流程的技巧、注意事項與範例](https://yschen25.blogspot.com/2022/02/coding-interview.html)
 
 # 譯者註
 
