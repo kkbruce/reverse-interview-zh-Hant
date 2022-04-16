@@ -247,10 +247,11 @@
 
 (繁中補充)
 
-* [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 一文也是經典。
+* [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 一文也是必讀經典之作。
 * [面試笑話](Interview-Joke.md) 由網友提供。好好提問與不好好提問的結果。
 * [為了有一個適合自己的工作，你應該做哪些事？](https://useme.medium.com/%E7%82%BA%E4%BA%86%E6%9C%89%E4%B8%80%E5%80%8B%E9%81%A9%E5%90%88%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%87%89%E8%A9%B2%E5%81%9A%E5%93%AA%E4%BA%9B%E4%BA%8B-11554b00037b) 
 * [Coding interview就是刷很多題目，然後面試時直接上場解題? 不是喔，這邊結構化了平時刷題練習、面試流程的技巧、注意事項與範例](https://yschen25.blogspot.com/2022/02/coding-interview.html)
+* <a href="https://kheresy.wordpress.com/2010/05/24/hr-%E5%92%8C%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E5%B8%AB%E6%80%8E%E9%BA%BC%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%B1%A5%E6%AD%B7%EF%BC%9F/" target="_blank">HR 和程式設計師怎麼看你的履歷？</a> 瞭解一下，以公司（HR）角度是如何看你的履歷。要先有被約面試的機會，才有實現提問的可能。
 
 # 譯者註
 
